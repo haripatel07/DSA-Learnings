@@ -1,4 +1,4 @@
-# DSA_Learnings
+# DSA Learnings
 
 A curated collection of Data Structures & Algorithms (DSA) practice problems implemented in **C++**, aimed at improving problem-solving and logical thinking skills.
 
